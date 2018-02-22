@@ -12,15 +12,15 @@ Voici l'app de mon groupe de 1 dédiée à la mission du jour: promouvoir THP au
 
 Et comme les autres groupes ont à priori spammé la France, je pars sur une niche: Marseille. Car c'est toujours bien de commencer sur une niche, qu'elle soit thématique ou géographique, tout simplement car l'identité visuelle "locale" permet de déclencher un sentiment d'appartenance augmentant le taux de transformation.
 
-##Le template
+## Le template
 
 Je suis parti sur un template de chez W3C basique mais fonctionnel, il marche pour le coup sans boostrap puisque en l'état, je ne dispose pas de quoi personnaliser chaque header simplement pour ce que nous évoquerons plus loin en SEM (terme impropre utilisé pour regrouper le SEO (google et consorts), le SMO (outils sociaux) et l'achat de pubs).
 
-##HP / LP
+## HP / LP
 
 Afin de gagner en efficacité, plusieurs pages thématiques ont été déterminées, une par cible, en plus d'une page d'accueil "splash" permet d'orienter les utilisateur vers le contenu qui leur est dédié (d'éclabousser donc, d'où le splash). Vous constaterez différentes mise en page / ambiances en fonction des cibles: plutôt funky pour les étudiants, sérieuse et corporate pour les Angels, les incubateurs, et les entreprises. On va partager sur FB pour les étudiants, sur linkedIn pour les autres.
 
-##Call to action / Acquisition indirecte
+## Call to action / Acquisition indirecte
 
 Il y a trois CTA principaux:
 
@@ -47,7 +47,7 @@ Les statistiques les plus fines sont collectées par Google Analytics, les metri
 
 Là pas de grande surprise:
 
-###SEO
+### SEO
 
 Pas de grande surprise, les basiques
 * un title de page unique
@@ -56,24 +56,24 @@ Pas de grande surprise, les basiques
 * texte optimisé
 * media optimisé (alt, taille et nom de l'image)
 
-###SMO
+### SMO
 * balises Open Graph Facebook https://developers.facebook.com/docs/sharing/webmasters?locale=fr_FR#markup
 * [twitter card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 
-###SEA
+### SEA
 * l'outil de boost de publication de Facebook permet d'estimer à 200 euros les 200 000 reach (affichage de la pub) à un public de près de 700 000 personnes 18-35 ans dans la région, fans de techno, d'internet, de sécurité informatique ou de codage. A voir l'impact pour cette thématique. Sur la thématique concert, 100€ donnent + 150 fans, 1000 visites sur le site, 150 partages et 3 à 4000 engagements (like + commentaires), mais là on est sur de l'utra ciblé donc à voir.
 
-##La suite
+## La suite
 
 1 millions de choses à faire, le gros morceaux étant de remonter un maximum de stats et de fonctionnalités en backoffice: gestion des mailings de Mailchimp, gestion de Facebook et Google Analytics. Bref intégrer 3 API pour ne pas y passer des heures tous les jours.
 
 Les autres points concernent
 
-* le référencement qui doit passer par l'utilisation d'un CMS afin de l'optimiser en semi automatique. OK pour le faire à la main sur un site de 3 pages, mais pas plus :)
-* la base de prospect: nerf de la guerre habituel, il faut des contacts et des mails. Se plonger dans les plateformes B2C est une nécessité, mais que je connais très mal.
+* le référencement qui doit passer par l'utilisation d'un CMS afin de l'optimiser en semi automatique. OK pour le faire à la main sur un site de 3 pages, mais pas plus :). Il faut aussi ajouter des [données structurées](http://schema.org/Organization) et pluger [webmaster tool](https://www.google.com/webmasters/tools/home?hl=fr) . Et encore plein d'autres trucs :)
+* la base de prospects: nerf de la guerre habituel, il faut des contacts et des mails. Se plonger dans les plateformes B2C est une nécessité, mais que je connais très mal. Faire un mailing incubateur locauw est aussi un bon plan, mais là c'est à la main, je n'ai rien trouvé à scrapper.
 
 ## En pratique
 
-Ce matin je pars au ski, donc les corrections se feront avec un réseau pourrav et des coupures téléphoniques, je tenterai de faire au mieux.
+Ce matin je pars au ski, donc les corrections se feront avec un réseau pourrav et des coupures téléphoniques, je tenterai de faire au mieux :)
 
-Au fait, le site est là  >> 
+Au fait, le site est là  >>

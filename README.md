@@ -18,7 +18,7 @@ Je suis parti sur un template de chez W3C basique mais fonctionnel, il marche po
 
 ## HP / LP
 
-Afin de gagner en efficacité, plusieurs pages thématiques ont été déterminées, une par cible, en plus d'une page d'accueil "splash" permet d'orienter les utilisateur vers le contenu qui leur est dédié (d'éclabousser donc, d'où le splash). Vous constaterez différentes mise en page / ambiances en fonction des cibles: plutôt funky pour les étudiants, sérieuse et corporate pour les Angels, les incubateurs, et les entreprises. On va partager sur FB pour les étudiants, sur linkedIn pour les autres.
+Afin de gagner en efficacité, plusieurs pages thématiques ont été déterminées, une par cible, en plus d'une page d'accueil "splash" permet d'orienter les utilisateur vers le contenu qui leur est dédié (d'éclabousser donc, d'où le splash). Vous constaterez différentes mise en page / ambiances en fonction des cibles: plutôt funky pour les étudiants, sérieuse et corporate pour les Angels, les incubateurs, et les entreprises. On va partager sur FB pour les étudiants, sur linkedIn pour les autres. Et une page charte car il la fallait pour pluger Facebook.
 
 ## Call to action / Acquisition indirecte
 
@@ -76,4 +76,4 @@ Les autres points concernent
 
 Ce matin je pars au ski, donc les corrections se feront avec un réseau pourrav et des coupures téléphoniques, je tenterai de faire au mieux :)
 
-Au fait, le site est là  >>
+Au fait, le site est là  >> https://thp-spam-tib.herokuapp.com/

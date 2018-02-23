@@ -26,18 +26,20 @@ Il y a trois CTA principaux:
 
 * Inscription à la Newsletter: Chaque page dispose de son propre formulaire, chaque formulaire allant incrémenter la liste dédiée à la cible directement dans MailChimp. Les newsletters générées par mailchimp ont de nombreux outils de partage embarqués, outre le forward.
 
-* Partage Social: Toutes les pages permettent un partage sur les réseaux sociaux Pro et Perso.
+* Partage Social: Toutes les pages permettent un partage sur un réseau social Pro (linked in pour Gérants et investisseurs) ou Perso (FB dans le menu et box facebook en bas de navigation).
 
 * Le fameux mail-à-un-ami qui fait toujours des ravages chez les plus de 45 ans. (Avant je disais 40, mais comme je vais les avoir dans 2 mois, je suis passé à 45).
 
-A noter le pop-up mailchimp qui s'ouvre si un malheureux tente de quitter le site.
+* A noter le pop-up mailchimp qui s'ouvre si un malheureux tente de quitter le site.
 
 ## Acquisition directe
 
 Outre les outils vus ci dessus:
 
-* j'ai scrappé les mails des acteurs du tourisme pour tout le 13 (hôtels, restaurants, profession libérales ... bref, tous ceux qui ont besoin de web et de communication) mais pour le coup je dois en parler à Charles et Felix avant d'appuyer sur le bouton (7000 mails). Pour info il existe de nombreux site avec open data comme le [comité départemental du tourisme 13](http://data.visitprovence.com/), c'est comme voler un pain au chocolat à un enfant ou une chocolatine à Felix :) .
-* une campagne Facebook locale (le 13 donc) avec une cible locale sera un bon outil d'acquisition à faible coût
+* j'ai scrappé les mails des acteurs du tourisme pour tout le 13 (hôtels, restaurants, profession libérales ... bref, tous ceux qui ont besoin de web et de communication) mais pour le coup je dois en parler à Charles et Felix avant d'appuyer sur le bouton (7000 mails). Pour info il existe de nombreux site avec open data comme le [comité départemental du tourisme 13](http://data.visitprovence.com/), c'est comme voler un pain au chocolat à un enfant ou une chocolatine à Felix :).
+* une campagne Facebook locale (le 13 donc) avec une cible locale sera un bon outil d'acquisition à faible coût (voir la partie SEA)
+* mailling au incubateurs, mais comme il y en peu dans la région, cela vaut le coup de le faire à la main.
+
 
 ## Metrics
 
@@ -60,6 +62,7 @@ Pas de grande surprise, les basiques
 * [balises Open Graph Facebook](https://developers.facebook.com/docs/sharing/webmasters?locale=fr_FR#markup)
 * [twitter card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 * création d'une page [Facebook THP Marseille](https://www.facebook.com/THPMarseille/)
+* création d'un [formulaire d'inscription Mailchimp dans facebook](https://www.facebook.com/THPMarseille/app/100265896690345/) oui oui on peut le faire:)
 
 ces balises permettent d'afficher des liens sympa avec image miniature / résumé sur les réseaux.
 
@@ -74,6 +77,7 @@ Les autres points concernent
 
 * le référencement qui doit passer par l'utilisation d'un CMS afin de l'optimiser en semi automatique. OK pour le faire à la main sur un site de 3 pages, mais pas plus :). Il faut aussi ajouter des [données structurées](http://schema.org/Organization) et pluger [webmaster tool](https://www.google.com/webmasters/tools/home?hl=fr) . Et encore plein d'autres trucs :)
 * la base de prospects: nerf de la guerre habituel, il faut des contacts et des mails. Se plonger dans les plateformes B2C est une nécessité, mais que je connais très mal. Faire un mailing incubateur locauw est aussi un bon plan, mais là c'est à la main, je n'ai rien trouvé à scrapper.
+* les incubateurs méritent une page, ils peuvent d'ailleurs être des ressources pour accueillir les moussailons et les ateliers, outre aider au lancement des projets finaux.
 
 ## En pratique
 

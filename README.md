@@ -41,7 +41,7 @@ Outre les outils vus ci dessus:
 
 ## Metrics
 
-Les statistiques les plus fines sont collectées par Google Analytics, les metrics de consultation / ouverture des mails par cible est à disposition sur le backoffice Mailchimp, et il en va de même sur Facebook qui permet d'avoir une photo assez précise des visiteurs / fans de la page. Il est cependant tôt pour utiliser ces statistiques vu que je suis grosso modo le seul à passer sur le site. A noter le paramétrage auto de compte rendus depuis Google Analytics.
+Les statistiques les plus fines sont collectées par Google Analytics, les metrics de consultation / ouverture des mails par cible est à disposition sur le backoffice Mailchimp (le site y est connecté via header pour déclencher un pop up en cas de tentative d'évasion), et il en va de même sur Facebook qui permet d'avoir une photo assez précise des visiteurs / fans de la page. Il est cependant tôt pour utiliser ces statistiques vu que je suis grosso modo le seul à passer sur le site. A noter le paramétrage auto de compte rendus depuis Google Analytics.
 
 ## SEM
 

@@ -59,6 +59,7 @@ Pas de grande surprise, les basiques
 ### SMO
 * balises Open Graph Facebook https://developers.facebook.com/docs/sharing/webmasters?locale=fr_FR#markup
 * [twitter card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
+* création d'une page [Facebook THP Marseille](https://www.facebook.com/THPMarseille/)
 
 ces balises permettent d'afficher des liens sympa avec image miniature / résumé sur les réseaux.
 

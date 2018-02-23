@@ -57,7 +57,7 @@ Pas de grande surprise, les basiques
 * media optimisé (alt, taille et nom de l'image)
 
 ### SMO
-* balises Open Graph Facebook https://developers.facebook.com/docs/sharing/webmasters?locale=fr_FR#markup
+* [balises Open Graph Facebook](https://developers.facebook.com/docs/sharing/webmasters?locale=fr_FR#markup)
 * [twitter card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 * création d'une page [Facebook THP Marseille](https://www.facebook.com/THPMarseille/)
 

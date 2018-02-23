@@ -60,6 +60,8 @@ Pas de grande surprise, les basiques
 * balises Open Graph Facebook https://developers.facebook.com/docs/sharing/webmasters?locale=fr_FR#markup
 * [twitter card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 
+ces balises permettent d'afficher des liens sympa avec image miniature / résumé sur les réseaux.
+
 ### SEA
 * l'outil de boost de publication de Facebook permet d'estimer à 200 euros les 200 000 reach (affichage de la pub) à un public de près de 700 000 personnes 18-35 ans dans la région, fans de techno, d'internet, de sécurité informatique ou de codage. A voir l'impact pour cette thématique. Sur la thématique concert, 100€ donnent + 150 fans, 1000 visites sur le site, 150 partages et 3 à 4000 engagements (like + commentaires), mais là on est sur de l'utra ciblé donc à voir.
 
